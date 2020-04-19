@@ -60,7 +60,7 @@
 
 .header__main-illustration {
   position: absolute;
-  background-image: url(/images/header-image.png);
+  background-image: url('../images/header-image.png');
   background-size: cover;
   background-repeat: no-repeat;
   width: 765px;
@@ -179,7 +179,7 @@
 /* Блок "Метод Фейнмана" */
 
 .feinman {
-  background-image: url(/images/feynman.png);
+  background-image: url('../images/feynman.png');
   background-size: 867px 637px;
   background-repeat: no-repeat;
   background-position: bottom left;
@@ -242,7 +242,7 @@
 .kaufman__triangle {
   z-index: 0;
   position: absolute;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url('../images/kaufman-triangle.svg');
   background-repeat: no-repeat;
   background-size: contain;
   width: 877px;
