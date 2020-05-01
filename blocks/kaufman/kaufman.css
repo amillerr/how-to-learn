@@ -1,7 +1,7 @@
 @import url(./__triangle/kaufman__triangle.css);
 @import url(../table/table.css);
-@import url(../table/__cell/_theme/_dark/table__cell_theme_dark.css);
-@import url(../table/_theme/_dark/table_theme_dark.css);
+@import url(../table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../table/_theme/table_theme_dark.css);
 
 .kaufman {
   position: relative;
