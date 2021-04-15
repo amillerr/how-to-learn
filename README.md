@@ -23,4 +23,4 @@ Cамостоятельный проект. В этой работе я прим
 
  - Адаптивность
 
-# Ссылка на проект https://amillerr.ru/how-to-learn
+#### Ссылка на проект https://amillerr.ru/how-to-learn
