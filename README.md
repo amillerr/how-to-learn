@@ -23,3 +23,6 @@ Cамостоятельный проект. В этой работе я прим
 
  - Адаптивность
 
+## Screenshots
+
+![App Screenshot](https://i2.paste.pics/20c073c9b970f7116800de3d5472fbd3.png)
