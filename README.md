@@ -1,7 +1,7 @@
 # How to learn 
 
 ____
-
+Ссылка на проект: (https://how-to-learn-gphj1bujj-amillerr.vercel.app/)
 
 
 Cамостоятельный проект. В этой работе я применил следующие знания по темам :
