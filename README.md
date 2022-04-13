@@ -18,9 +18,9 @@
 
 ## Инструкция по развёртыванию:
 
-Клонирование репозитория командой : git clone https://github.com/amillerr/how-to-learn.git
-Открыть файл index.html в браузере
+* Клонирование репозитория командой : git clone https://github.com/amillerr/how-to-learn.git
+* Открыть файл index.html в браузере
 
 ### Статус проекта:
 
- - Работы по адаптивности
+* Работы по адаптивности
